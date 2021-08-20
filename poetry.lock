@@ -409,7 +409,7 @@ importlib-metadata = {version = ">=1.7.0", markers = "python_version < \"3.8\""}
 type = "git"
 url = "https://github.com/python-poetry/poetry-core.git"
 reference = "better-git-handling"
-resolved_reference = "c1901d5c308dbbdf0fc42029a65def53eb5f1218"
+resolved_reference = "0461b0340e35ded0f07c9f72f9ab428c615a1edc"
 
 [[package]]
 name = "pre-commit"
